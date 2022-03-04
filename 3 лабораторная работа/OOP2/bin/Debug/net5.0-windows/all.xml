@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<all xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <teachers />
+  <subject>
+    <subjectname>ООП</subjectname>
+    <subjectnumbertimes>10</subjectnumbertimes>
+    <labnumbertimes>120</labnumbertimes>
+    <control>экзамен</control>
+    <subjectsem>2</subjectsem>
+    <subjectcurses>5</subjectcurses>
+  </subject>
+</all>
