@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<all xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <teachers>
+    <Teacher>
+      <FIO>Ник Ник Ник</FIO>
+      <classes>121</classes>
+      <cafedra>Программной инженерии</cafedra>
+      <number>(12) 121-5849</number>
+    </Teacher>
+  </teachers>
+  <subject>
+    <subjectname>ООП</subjectname>
+    <subjectsem>1</subjectsem>
+    <subjectcurses>3</subjectcurses>
+    <subjectnumbertimes>4</subjectnumbertimes>
+    <labnumbertimes>5</labnumbertimes>
+    <control>экзамен</control>
+  </subject>
+</all>
