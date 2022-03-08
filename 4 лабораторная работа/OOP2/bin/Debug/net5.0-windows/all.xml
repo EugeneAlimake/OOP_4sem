@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<all xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <teachers />
+  <subject>
+    <subjectname>Ger</subjectname>
+    <subjectsem>1</subjectsem>
+    <subjectcurses>4</subjectcurses>
+    <subjectnumbertimes>4</subjectnumbertimes>
+    <labnumbertimes>2</labnumbertimes>
+    <teacher>
+      <classes>0</classes>
+    </teacher>
+    <control>экзамен</control>
+  </subject>
+</all>
